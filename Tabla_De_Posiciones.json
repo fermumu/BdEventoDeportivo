@@ -1,0 +1,25 @@
+[
+	{
+	 "_id":"004",
+	 "Posicion": 1,
+	 "Equipo": "Deportes Tolima",
+	 "PJ":2, "Pts":6
+	},
+	{
+	 "_id":"001",
+	 "Posicion": 2,
+	 "Equipo": "Deportivo Cali",
+	 "PJ":2, "Pts":6
+	},
+	{
+	 "_id":"003",
+	 "Posicion": 3,
+	 "Equipo": "América De Cali",
+	 "PJ":2, "Pts":3
+	},
+	{
+	 "_id":"002",
+	 "Posicion": 4,
+	 "Equipo": "Santa FE",
+	 "PJ":2, "Pts":0}
+]

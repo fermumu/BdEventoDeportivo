@@ -1,0 +1,25 @@
+[
+	{
+	 "_id":"01",
+	 "Equipo_Local": "Santa FE",
+	 "Equipo_Visitante": "Deportivo Cali",
+	 "Jornada": "Jornada 1"
+	},
+	{
+	 "_id":"02",
+	 "Equipo_Local": "América De Cali",
+	 "Equipo_Visitante": "Deportes Tolima",
+	 "Jornada": "Jornada 1"
+	},
+	{
+	 "_id":"03",
+	 "Equipo_Local": "Deportes Tolima",
+	 "Equipo_Visitante": "Santa FE",
+	 "Jornada": "Jornada 2"
+	},
+	{
+	 "_id":"04",
+	 "Equipo_Local": "América De Cali",
+	 "Equipo_Visitante": "Deportivo Cali",
+	 "Jornada": "Jornada 2"}
+]

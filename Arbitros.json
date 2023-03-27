@@ -1,0 +1,43 @@
+[
+	{
+	 "_id":3153317291,
+	 "Nombre": "Kurt",
+	 "Apellido": "Cobaint",
+	 "Edad":25,
+	 "Equipo_Arbitral": "Lateral Izquierdo"
+	},
+	{
+	 "_id":6006411249,
+	 "Nombre": "Jackson",
+	 "Apellido": "Roman",
+	 "Edad":31,
+	 "Equipo_Arbitral": "Central"
+	},
+	{
+	 "_id":7626154972,
+	 "Nombre": "Luca",
+	 "Apellido": "Ferrari",
+	 "Edad":22,
+	 "Equipo_Arbitral": "Lateral Derecho"
+	},
+	{
+	 "_id":7216963372,
+	 "Nombre": "Nathan",
+	 "Apellido": "Salvatore",
+	 "Edad":35,
+	 "Equipo_Arbitral": "Suplente"
+	},
+	{
+	 "_id":3986770245,
+	 "Nombre": "Liam",
+	 "Apellido": "Espósito",
+	 "Edad":27,
+	 "Equipo_Arbitral": "Cuarto Arbitro"
+	},
+	{
+	 "_id":1442648594,
+	 "Nombre": "Martín",
+	 "Apellido": "Brown",
+	 "Edad":29,
+	  "Equipo_Arbitral": "Suplente"}
+]
